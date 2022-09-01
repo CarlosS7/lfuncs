@@ -24,6 +24,8 @@ setup(
         packages=[
             'lfuncs',
             'lfuncs.labeling',
+            'lfuncs.labeling.apply',
+            'lfuncs.labeling.lf',
             'lfuncs.map',
             'lfuncs.preprocess',
             'lfuncs.types_utils',
